@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **MERN stack**
 
-- 🤝 I’m looking for help with **MERN stack project**
+- 🤝 I’m looking for help with **Full stack stack project**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Java and C++ **
 
 - 📫 How to reach me **ajithkulal4848@gmail.com**
 
